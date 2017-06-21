@@ -5,11 +5,13 @@
 
 Email: yafei.xu@hu-berlin.de
 
-Homepage: yafeixu.github.io
+Homepage: [[yafeixu.github.io](yafeixu.github.io)]
 
 Office-Tel: +49 (351) 463-36878
 
 Adress: WEN 20-13-60, Franz-Mehring-Platz 2, D-10243 Berlin, Germany
+
+
 ***
 
 
@@ -51,22 +53,22 @@ MMSTAT [[code](https://github.com/QuantLet/MMSTAT)][[slides](https://www.researc
 09.2015 [Bozen-Bolzano Risk School](http://pro1.unibz.it/projects/bz_risk_school/), Libera Università di Bolzano, Italy  
 09.2015 [21\. DStatG Nachwuchsworkshop](http://www.dstatg.de/de/startseite/aktuelle-news/article/21-dstatg-nachwuchsworkshop-2015-in-hamburg/), Universität der Bundeswehr Hamburg, Germany  
 05.2017 Brown Bag Seminar,  Technische Universität Dresden, Germany  
-​  
+  
 **Research Concentration**  
 Dependence modeling and copula  
 Quantitative risk management  
 Computational statistics  
-​  
-​**Teaching**  
+  
+**Teaching**  
 VL: Theoretische Multivariate Statistik (vertretungsweise), WiSe 2015/16 (TU Dresden)  
-​VL: Statistical Programming Languages, WiSe 2015/16 (HU Berlin)   
+VL: Statistical Programming Languages, WiSe 2015/16 (HU Berlin)   
 VL: Angewandte Multivariate Statistik (vertretungsweise), SoSe 2015 (TU Dresden)  
 VL: Multivariate Statistical Analysis I , WiSe 2014/15 (HU Berlin)  
 Ü: Theoretische Multivariate Statistik, WiSe 2015/16 (TU Dresden)  
 
 **Anonymous Reviewer**  
-AStA Advances in Statistical Analysis _[[link](http://www.springer.com/statistics/journal/10182)]  
-_​_  
+AStA Advances in Statistical Analysis [[link](http://www.springer.com/statistics/journal/10182)]  
+
 **My GoogleScholar Citation** [[link](https://scholar.google.com/citations?user=QpRUvNIAAAAJ&hl=en)]  
 
 **My ResearchGate** [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jiangsulianyungang)]​  
@@ -78,10 +80,7 @@ Mit chic, Eduard Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](ht
 Dorfschwalben aus Österreich, Josef Strauß, Vienna Philharmonic 1992 by Carlos Kleiber [[link](https://www.youtube.com/watch?v=4pGa-E2rskA)]  
 Wo man lacht und lebt, Eduard Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](https://rutube.ru/video/9af8e9a1d9b0e9b657e6e45179ac5ba3/)]  
 ​Wiener leben, Josef Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](https://www.youtube.com/watch?v=R2uXQDS4btA)]  
-Wein, Weib und Gesang, Johann Strauß II, Vienna Philharmonic 2000 by Riccardo Muti [[link](https://www.youtube.com/watch?v=hGqH6le7QoI)]</div>
-
-
-
+Wein, Weib und Gesang, Johann Strauß II, Vienna Philharmonic 2000 by Riccardo Muti [[link](https://www.youtube.com/watch?v=hGqH6le7QoI)]
 
 
 [![](//clustrmaps.com/map_v2.png?cl=0e1633&w=a&t=tt&d=ZEyQFXd6AhKiGuXzWw5CacldY3nE2Ujiv4HO4zmwEmQ&co=0b4975&ct=cdd4d9)](https://clustrmaps.com/site/19ncd "Visit tracker")

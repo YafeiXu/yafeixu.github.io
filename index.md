@@ -3,9 +3,9 @@
 
 
 
-Email: yafei.xu@hu-berlin.de
+Email: <span style="color: #030af4;">yafei.xu@hu-berlin.de</span>  
 
-Homepage: [[yafeixu.github.io](yafeixu.github.io)]
+Homepage: [yafeixu.github.io(yafeixu.github.io)]
 
 Office-Tel: +49 (351) 463-36878
 

@@ -1,5 +1,7 @@
 # YA FEI XU (许亚菲 中国江苏连云港)
 
+<img src="https://scholar.google.com/citations?view_op=view_photo&user=QpRUvNIAAAAJ&citpid=4" align="left">
+
 Email: <span style="color: #030af4;">yafei.xu@hu-berlin.de</span>  
 
 Homepage: <span style="color: #030af4;">yafeixu.github.io</span> 

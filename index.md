@@ -1,7 +1,7 @@
 # YA FEI  XU (许亚菲 中国江苏连云港)
 
 
-<img align="left" src="https://github.com/YafeiXu/Yafei_Xu_Homepage/blob/master/1small.png">
+<img align="left" src="https://github.com/YafeiXu/YafeiXu.github.io/blob/master/1small.png">
 
 Email: <span style="color: #030af4;">yafei.xu@hu-berlin.de</span>  
 
@@ -74,12 +74,12 @@ AStA Advances in Statistical Analysis [[link](http://www.springer.com/statistic
 **My ResearchGate** [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jiangsulianyungang)]​  
 
 **Hobby (collection of some Straußes)**  
-Eingesendet​, Josef Strauß, Vienna Philharmonic 1997 by Riccardo Muti [[link](https://www.youtube.com/watch?v=hnXgmrXthIk)]  
+Eingesendet, Josef Strauß, Vienna Philharmonic 1997 by Riccardo Muti [[link](https://www.youtube.com/watch?v=hnXgmrXthIk)]  
 Auf der Jagd, Johann Strauß, Vienna Philharmonic 1993 by Riccardo Muti [[link](https://www.youtube.com/watch?v=39RpnGSWb-U)]  
 Mit chic, Eduard Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](https://www.youtube.com/watch?v=rrPpLUI5m2w&feature=share&list=PLuBGjVk8rLS7BYfKSDSgT2imibf9nm1a4&index=17)]  
 Dorfschwalben aus Österreich, Josef Strauß, Vienna Philharmonic 1992 by Carlos Kleiber [[link](https://www.youtube.com/watch?v=4pGa-E2rskA)]  
 Wo man lacht und lebt, Eduard Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](https://rutube.ru/video/9af8e9a1d9b0e9b657e6e45179ac5ba3/)]  
-​Wiener leben, Josef Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](https://www.youtube.com/watch?v=R2uXQDS4btA)]  
+Wiener leben, Josef Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](https://www.youtube.com/watch?v=R2uXQDS4btA)]  
 Wein, Weib und Gesang, Johann Strauß II, Vienna Philharmonic 2000 by Riccardo Muti [[link](https://www.youtube.com/watch?v=hGqH6le7QoI)]
 
 

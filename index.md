@@ -9,6 +9,7 @@ Office-Tel: +49 (351) 463-36878
 
 Adress: WEN 20-13-60, Franz-Mehring-Platz 2, D-10243 Berlin, Germany
 
+WeChat: Anspandau (QQ: 103109371)
 
 ***
 

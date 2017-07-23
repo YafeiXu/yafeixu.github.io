@@ -55,9 +55,9 @@ MMSTAT [[code](https://github.com/QuantLet/MMSTAT)][[slides](https://www.researc
 05.2017 Brown Bag Seminar,  Technische Universität Dresden, Germany  
   
 ## Research Concentration  
-Dependence modeling and copula  
-Quantitative risk management  
-Computational statistics  
+copula and dependence modeling; 
+quantitative finance; 
+multivariate statistical process control
   
 ## Teaching
 VL: Theoretische Multivariate Statistik (vertretungsweise), WiSe 2015/16 (TU Dresden)  

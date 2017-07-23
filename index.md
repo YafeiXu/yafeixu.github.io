@@ -29,7 +29,7 @@ Lecturer (with tenure), Beijing University of Technology, Beijing, PR China (北
 [1] Ya Fei Xu. 2017. A Nonparametric Change Point Model for High Dimensional Financial Surveillance  
 announced in researchGate [[pdf](https://www.researchgate.net/publication/318447071_A_Nonparametric_Multivariate_Control_Chart_for_High-Dimensional_Financial_Surveillance)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]  
 
-[2] Ostap Okhrin and Ya Fei Xu. 2015. A Comparison Study of Pricing Credit Default Swap Index Tranches with Convex Combination of Copulae.  
+[2] Ostap Okhrin and Ya Fei Xu. 2015. A Comparison Study of Pricing Credit Default Swap Index Tranches with Convex Combination of Copulae.
 North American Journal of Economics and Finance, **accepted** [[pdf](https://github.com/YafeiXu/working_paper/blob/master/CDO_O2_YFX.pdf)][[slides](https://www.researchgate.net/profile/Yafei_Xu3/publication/315656346_A_Comparison_Study_of_Pricing_Credit_Default_Swap_Index_Tranches_with_Convex_Combination_of_Copulae/links/58d8b62692851c44d4ad31ab/A-Comparison-Study-of-Pricing-Credit-Default-Swap-Index-Tranches-with-Convex-Combination-of-Copulae.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=KJWyapOcbS1qM2-8-QUeiPkzXABGdumLUBGrJn_yYbOFEGAfrWXJyudl_HNTRe8uPr_cBEHelAooD5M7K4x9tOM5zBlki-Wxgy57TEgmrE4.RERLuvCDHo884hsPaxgakxdS5_P7mhvzME-KtKpNbJQbKCb2FSLaowkRxuy3vUyoOq85IOZplXr614ojKiHjaw.d3QS4kt7MODnknK5Jz5JarloZED10trIZzALAn6mXPWt-m2NRddqQfaapdExhYnCfHiqnn24aWRbAQqrTHPlPQ.suVvSKAr--U5eMaoPOKNLEhxbJnIf1RLdFfebdeA1t_o3NOa931gXVwcFbnf70hbda-oZRNMHi9Lnrl4h9e-Pw)]  
 
 [3] Ostap Okhrin, Alexander Ristig and Ya Fei Xu. 2016\. Copulae in High Dimensions: An Introduction.   

@@ -1,4 +1,5 @@
-# YA FEI XU (许亚菲 中国江苏连云港)
+YA FEI XU (许亚菲 中国江苏连云港)
+=======================
 
 <img src="https://scholar.google.com/citations?view_op=view_photo&user=QpRUvNIAAAAJ&citpid=5" align="left">
 
@@ -14,7 +15,9 @@ Adress: WEN 20-13-60, Franz-Mehring-Platz 2, D-10243 Berlin, Germany
 
 
 ## Placement Admitted
-Lecturer (with tenure), Beijing University of Technology, Beijing, PR China (北京工业大学) [[admission](https://github.com/YafeiXu/working_paper/blob/master/2017bjutAnnouncement.pdf)]  
+
+Lecturer (with tenure), Beijing University of Technology, Beijing, PR China (北京工业大学) [[admission](https://github.com/YafeiXu/working_paper/blob/master/2017bjutAnnouncement.pdf)]
+
 
 ## Education  
 2014-PhD Statistics Candidate, Humboldt-Universität zu Berlin, Germany (by **Chinese Government Scholarship** [[pdf](https://github.com/YafeiXu/working_paper/blob/master/CSC-certificate.pdf)])  
@@ -55,8 +58,8 @@ MMSTAT [[code](https://github.com/QuantLet/MMSTAT)][[slides](https://www.researc
 05.2017 Brown Bag Seminar,  Technische Universität Dresden, Germany  
   
 ## Research Concentration  
-copula and dependence modeling; 
-quantitative finance; 
+copula and dependence modeling
+quantitative finance
 multivariate statistical process control
   
 ## Teaching

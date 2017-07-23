@@ -1,7 +1,5 @@
 # YA FEI XU (许亚菲 中国江苏连云港)
 
-![alt text](https://github.com/YafeiXu/YafeiXu.github.io/blob/master/1small.png "Ya Fei Xu")
-
 Email: <span style="color: #030af4;">yafei.xu@hu-berlin.de</span>  
 
 Homepage: <span style="color: #030af4;">yafeixu.github.io</span> 

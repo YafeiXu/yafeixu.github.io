@@ -13,18 +13,19 @@ Adress: WEN 20-13-60, Franz-Mehring-Platz 2, D-10243 Berlin, Germany
 
 
 
-### Placement Admitted
+## Placement Admitted
 Lecturer (with tenure), Beijing University of Technology, Beijing, PR China (北京工业大学) [[admission](https://github.com/YafeiXu/working_paper/blob/master/2017bjutAnnouncement.pdf)]  
 
-### Education  
+## Education  
 2014-PhD Statistics Candidate, Humboldt-Universität zu Berlin, Germany (by **Chinese Government Scholarship** [[pdf](https://github.com/YafeiXu/working_paper/blob/master/CSC-certificate.pdf)])  
-The **International Research Training Group (IRTG) 1792** "High Dimensional Nonstationary Time Series" . 
+The **International Research Training Group (IRTG) 1792** "High Dimensional Nonstationary Time Series" 
+
 2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany  
 2011 MSc Management Science, Tongji University Shanghai, China  
 2006 BSc Management Science, Chengdu University of Technology, China  
 2016 Visiting Scholar, Libera Università di Bolzano, Italy (by **DAAD Visiting Scholarship** [[pdf](https://github.com/YafeiXu/working_paper/blob/master/DAAD-certificate.pdf)], hosted by Prof. Dr. Fabrizio Durante)   
 
-### Papers (articles, chapters and softwares)
+## Papers (articles, chapters and softwares)
 [1] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Control Chart for High-Dimensional Financial Surveillance
 announced in researchGate [[pdf](https://www.researchgate.net/publication/318447071_A_Nonparametric_Multivariate_Control_Chart_for_High-Dimensional_Financial_Surveillance)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)][[R-Package](https://sites.google.com/site/energyonlinecpm/)][[R-Manual](https://www.researchgate.net/publication/313838019_Reference_Manual_An_R_Package_%27EnergyOnlineCPM%27)]
 
@@ -44,35 +45,35 @@ Basic Elements of Computational Statistics, **accepted** [[pdf](https://github.c
 [6] Ya Fei Xu. 2014\. An R Package `CDO'.
 announced in researchGate [[pdf](https://www.researchgate.net/publication/313837768_Reference_Manual_An_R_Package_%27CDO%27)][[project](https://sites.google.com/site/cdowithr/)]  
   
-### Quantlet Project
+## Quantlet Project
 MMSTAT [[code](https://github.com/QuantLet/MMSTAT)][[slides](https://www.researchgate.net/publication/315654977_MMSTAT_with_Shiny_Technology)][[book](http://www.springer.com/us/book/9783319177038)], COP [[slides](https://www.researchgate.net/profile/Yafei_Xu3/publication/315656520_COP-Project/links/58d8bb05aca2727e5e06e712/COP-Project.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=sxr75vmACuT7wy_6lw8-QYk8rrv4LYkTUB9loNLUTmy2xZHLSw7DIFPDikyMaSvHrjTJvJ7mVZ8G5zNf9bf96G26eQ-WwDO0aUnfQiI_Qdg.Bz-3xM6rsiDkwK74R9ZGdmi3HlT_HtmO8fAt2WRVAbZRoNrfFgxbxyXW37gU2jlCBWLHEtPIz_jd5UzWvuv-Sg.4wp5bVZecG5k7mR_8p9P9oaRG6LXj6dxe6XBg-DyAv6-dUVhoN2WSeSuzPlF9-IHY_ObqgiVz-FAycrTPufczA.-m2_BGaAS6Cxn-yQuSzgv6xpyoV6P8LKQjkRq1StI8egBy9tsV4M7Aoq2e7pZuL2ngayMJJ7fjAGt1LKMmTmNw)][[link](https://github.com/QuantLet/COP)]  
 
-### Conference Presentation 
+## Conference Presentation 
 10.2015 [Dresden-Berlin Workshop on High-Dimensionality of Transport and Digital Economy](https://tu-dresden.de/bu/verkehr/ivw/osv/kooperation/events-1/dresden-berlin-workshop-2015), Technische Universität Dresden, Germany  
 09.2015 [Bozen-Bolzano Risk School](http://pro1.unibz.it/projects/bz_risk_school/), Libera Università di Bolzano, Italy  
 09.2015 [21\. DStatG Nachwuchsworkshop](http://www.dstatg.de/de/startseite/aktuelle-news/article/21-dstatg-nachwuchsworkshop-2015-in-hamburg/), Universität der Bundeswehr Hamburg, Germany  
 05.2017 Brown Bag Seminar,  Technische Universität Dresden, Germany  
   
-### Research Concentration  
+## Research Concentration  
 Dependence modeling and copula  
 Quantitative risk management  
 Computational statistics  
   
-### Teaching
+## Teaching
 VL: Theoretische Multivariate Statistik (vertretungsweise), WiSe 2015/16 (TU Dresden)  
 VL: Statistical Programming Languages, WiSe 2015/16 (HU Berlin)   
 VL: Angewandte Multivariate Statistik (vertretungsweise), SoSe 2015 (TU Dresden)  
 VL: Multivariate Statistical Analysis I , WiSe 2014/15 (HU Berlin)  
 Ü: Theoretische Multivariate Statistik, WiSe 2015/16 (TU Dresden)  
 
-### Anonymous Reviewer 
+## Anonymous Reviewer 
 AStA Advances in Statistical Analysis [[link](http://www.springer.com/statistics/journal/10182)]  
 
-### My GoogleScholar Citation [[link](https://scholar.google.com/citations?user=QpRUvNIAAAAJ&hl=en)]  
+## My GoogleScholar Citation [[link](https://scholar.google.com/citations?user=QpRUvNIAAAAJ&hl=en)]  
 
-### My ResearchGate [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jiangsulianyungang)]​  
+## My ResearchGate [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jiangsulianyungang)] 
 
-### Hobby (collection of some Straußes)  
+## Hobby (collection of some Straußes)  
 Eingesendet, Josef Strauß, Vienna Philharmonic 1997 by Riccardo Muti [[link](https://www.youtube.com/watch?v=hnXgmrXthIk)]  
 Auf der Jagd, Johann Strauß, Vienna Philharmonic 1993 by Riccardo Muti [[link](https://www.youtube.com/watch?v=39RpnGSWb-U)]  
 Mit chic, Eduard Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](https://www.youtube.com/watch?v=rrPpLUI5m2w&feature=share&list=PLuBGjVk8rLS7BYfKSDSgT2imibf9nm1a4&index=17)]  

@@ -18,7 +18,7 @@ Lecturer (with tenure), Beijing University of Technology, Beijing, PR China (北
 
 ### Education  
 2014-PhD Statistics Candidate, Humboldt-Universität zu Berlin, Germany (by **Chinese Government Scholarship** [[pdf](https://github.com/YafeiXu/working_paper/blob/master/CSC-certificate.pdf)])  
-The **International Research Training Group (IRTG) 1792** "High Dimensional Nonstationary Time Series" 
+The **International Research Training Group (IRTG) 1792** "High Dimensional Nonstationary Time Series" . 
 2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany  
 2011 MSc Management Science, Tongji University Shanghai, China  
 2006 BSc Management Science, Chengdu University of Technology, China  

@@ -26,7 +26,7 @@ Lecturer (with tenure), Beijing University of Technology, Beijing, PR China (北
 2016 Visiting Scholar, Libera Università di Bolzano, Italy (by **DAAD Visiting Scholarship** [[pdf](https://github.com/YafeiXu/working_paper/blob/master/DAAD-certificate.pdf)], hosted by Prof. Dr. Fabrizio Durante)   
 
 **Papers** **(articles, chapters and softwares)**  
-[1] Ya Fei Xu. 2017. A Nonparametric Change Point Model for High Dimensional Financial Surveillance  
+[1] Ya Fei Xu. 2017. A Nonparametric Multivariate Control Chart for High-Dimensional Financial Surveillance
 announced in researchGate [[pdf](https://www.researchgate.net/publication/318447071_A_Nonparametric_Multivariate_Control_Chart_for_High-Dimensional_Financial_Surveillance)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]  
 
 [2] Ostap Okhrin and Ya Fei Xu. 2015. A Comparison Study of Pricing Credit Default Swap Index Tranches with Convex Combination of Copulae.

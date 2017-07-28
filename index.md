@@ -41,7 +41,7 @@ announced in researchGate [[pdf](https://www.researchgate.net/publication/318447
 
 
 [3] Ostap Okhrin, Alexander Ristig and Ya Fei Xu\*. Copulae in High Dimensions: An Introduction.   
-**Applied Quantitative Finance**, W. Härdle, C. Chen, & L. Overbeck (Eds.). (2017). Springer-Verlag Berlin Heidelberg. [[pdf](https://github.com/YafeiXu/working_paper/blob/master/CHD_O2_AR_YFX.pdf)][[code](https://github.com/QuantLet/XFG3)][[book](http://www.springer.com/de/book/9783662544853)]  
+**Applied Quantitative Finance**, W. Härdle, C. Chen, & L. Overbeck (Eds.). (2017). Springer-Verlag Berlin Heidelberg.             [[pdf](https://github.com/YafeiXu/working_paper/blob/master/CHD_O2_AR_YFX.pdf)][[code](https://github.com/QuantLet/XFG3)][[book](http://www.springer.com/de/book/9783662544853)]  
 
 
 [4] Ostap Okhrin and Ya Fei Xu\*. Numerical Techniques.   

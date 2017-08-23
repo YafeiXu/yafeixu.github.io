@@ -82,7 +82,7 @@ AStA Advances in Statistical Analysis [[link](http://www.springer.com/statistics
 ## My ResearchGate [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jiangsulianyungang)] 
 
 ## Hobby (collection of some Straußes)  
-Vaterlandischer Marsch, Johann and Joseph Strauß, Vienna Philharmonic 2002 by Mariss Jansons [[link](https://www.youtube.com/watch?v=_k4KxaW-Qy4)]  
+Vaterlandischer Marsch, Johann and Josef Strauß, Vienna Philharmonic 2002 by Mariss Jansons [[link](https://www.youtube.com/watch?v=_k4KxaW-Qy4)]  
 Eingesendet, Josef Strauß, Vienna Philharmonic 1997 by Riccardo Muti [[link](https://www.youtube.com/watch?v=hnXgmrXthIk)]  
 Auf der Jagd, Johann Strauß, Vienna Philharmonic 1993 by Riccardo Muti [[link](https://www.youtube.com/watch?v=39RpnGSWb-U)]  
 Mit chic, Eduard Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](https://www.youtube.com/watch?v=rrPpLUI5m2w&feature=share&list=PLuBGjVk8rLS7BYfKSDSgT2imibf9nm1a4&index=17)]  

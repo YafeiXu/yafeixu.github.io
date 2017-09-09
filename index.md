@@ -13,13 +13,6 @@ Address: WEN 20-13-60, Franz-Mehring-Platz 2, D-10243 Berlin, Germany
 
 ***
 
-
-
-## Placement Admitted
-
-Lecturer (with tenure), Beijing University of Technology, Beijing, PR China (北京工业大学) [[admission](https://github.com/YafeiXu/working_paper/blob/master/2017bjutAnnouncement.pdf)]
-
-
 ## Education  
 2014-PhD Statistics Candidate, Humboldt-Universität zu Berlin, Germany (by **Chinese Government Scholarship** [[pdf](https://github.com/YafeiXu/working_paper/blob/master/CSC-certificate.pdf)])  
 The **International Research Training Group (IRTG) 1792** "High Dimensional Nonstationary Time Series" 

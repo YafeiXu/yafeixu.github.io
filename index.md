@@ -24,6 +24,7 @@ The **International Research Training Group (IRTG) 1792** "High Dimensional Nons
 
 ## Papers (articles, chapters and softwares)
 [1] Ya Fei Xu\*. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test
+
 **The Comprehensive R Archive Network** [[CRAN-page](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM/EnergyOnlineCPM.pdf)]
 ```R
 install.packages("EnergyOnlineCPM")

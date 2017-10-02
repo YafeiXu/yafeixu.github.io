@@ -23,30 +23,30 @@ The **International Research Training Group (IRTG) 1792** "High Dimensional Nons
 2016 Visiting Scholar, Libera Università di Bolzano, Italy (by **DAAD Visiting Scholarship** [[pdf](https://github.com/YafeiXu/working_paper/blob/master/DAAD-certificate.pdf)], hosted by Prof. Dr. Fabrizio Durante)   
 
 ## Papers (articles, chapters and softwares)
-[1] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Control Chart for High-Dimensional Financial Surveillance
-announced in researchGate [[pdf](https://www.researchgate.net/publication/318447071_A_Nonparametric_Multivariate_Control_Chart_for_High-Dimensional_Financial_Surveillance)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]
-
-R-Package "EnergyOnlineCPM" accepted by CRAN: [[webpage](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)] [[reference manual](https://cran.r-project.org/web/packages/EnergyOnlineCPM/EnergyOnlineCPM.pdf)]
+[1] Ya Fei Xu\*. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test
+**The Comprehensive R Archive Network** [[CRAN-page](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)][[reference manual](https://cran.r-project.org/web/packages/EnergyOnlineCPM/EnergyOnlineCPM.pdf)]
 ```R
 install.packages("EnergyOnlineCPM")
 library(EnergyOnlineCPM)
 ```
 
-[2] Ostap Okhrin and Ya Fei Xu\*. A Comparison Study of Pricing Credit Default Swap Index Tranches with Convex Combination of Copulae
+[2] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Control Chart for High-Dimensional Financial Surveillance
+announced in researchGate [[pdf](https://www.researchgate.net/publication/318447071_A_Nonparametric_Multivariate_Control_Chart_for_High-Dimensional_Financial_Surveillance)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]
+
+
+[3] Ostap Okhrin and Ya Fei Xu\*. A Comparison Study of Pricing Credit Default Swap Index Tranches with Convex Combination of Copulae
 **North American Journal of Economics and Finance**, Vol. 42C (2017) pp. 193-217 [[Elsevier](http://www.sciencedirect.com/science/article/pii/S106294081630078X)][[pdf](https://www.researchgate.net/publication/309204261_A_Comparison_Study_of_Pricing_Credit_Default_Swap_Index_Tranches_with_Convex_Combination_of_Copulae)][[slides](https://www.researchgate.net/profile/Yafei_Xu3/publication/315656346_A_Comparison_Study_of_Pricing_Credit_Default_Swap_Index_Tranches_with_Convex_Combination_of_Copulae/links/58d8b62692851c44d4ad31ab/A-Comparison-Study-of-Pricing-Credit-Default-Swap-Index-Tranches-with-Convex-Combination-of-Copulae.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=KJWyapOcbS1qM2-8-QUeiPkzXABGdumLUBGrJn_yYbOFEGAfrWXJyudl_HNTRe8uPr_cBEHelAooD5M7K4x9tOM5zBlki-Wxgy57TEgmrE4.RERLuvCDHo884hsPaxgakxdS5_P7mhvzME-KtKpNbJQbKCb2FSLaowkRxuy3vUyoOq85IOZplXr614ojKiHjaw.d3QS4kt7MODnknK5Jz5JarloZED10trIZzALAn6mXPWt-m2NRddqQfaapdExhYnCfHiqnn24aWRbAQqrTHPlPQ.suVvSKAr--U5eMaoPOKNLEhxbJnIf1RLdFfebdeA1t_o3NOa931gXVwcFbnf70hbda-oZRNMHi9Lnrl4h9e-Pw)]  
 [https://doi.org/10.1016/j.najef.2017.07.004](https://doi.org/10.1016/j.najef.2017.07.004)
 
 
-
-[3] Ostap Okhrin, Alexander Ristig and Ya Fei Xu\*. Copulae in High Dimensions: An Introduction.   
+[4] Ostap Okhrin, Alexander Ristig and Ya Fei Xu\*. Copulae in High Dimensions: An Introduction.   
 **Applied Quantitative Finance**, W. Härdle, C. Chen, & L. Overbeck (Eds.). (2017), pp. 247-277. Springer-Verlag Berlin Heidelberg.             [[pdf](https://www.researchgate.net/publication/318881867_Copulae_in_High_Dimensions_An_Introduction)][[code](https://github.com/QuantLet/XFG3)][[book](https://link.springer.com/book/10.1007/978-3-662-54486-0)]  
 [https://doi.org/10.1007/978-3-662-54486-0_13](https://doi.org/10.1007/978-3-662-54486-0_13)
 
 
-[4] Ostap Okhrin and Ya Fei Xu\*. Numerical Techniques.   
+[5] Ostap Okhrin and Ya Fei Xu\*. Numerical Techniques.   
 **Basic Elements of Computational Statistics**, W. Härdle, O. Okhrin & Y. Okhrin (Eds.). (2017). Springer-Verlag Berlin Heidelberg.   [[pdf](https://github.com/YafeiXu/working_paper/blob/master/BCS-paper-O2-YFX.pdf)][[slides](https://www.researchgate.net/profile/Yafei_Xu3/publication/315656363_Numerical_Techniques/links/58d8b8c1aca2727e5e06e6e2/Numerical-Techniques.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=wdRpkcop1S6fh1LNWVe41IqAcLDSKrYieUasJnTnLpzrZ_WEP5M4j5SFZDaojwp2Wc4jZN-d4h86b8WB66B4DEkIsFgKX3OTj3jb044Tx_s.AJD5KuWK6Cu1AGgdW8Dc2W0r3LjFRH7xyECZe9oaA932wPHe08OXf_7rfVXrCiWhtTE7jJfx96hs4VoPPKn6QQ.jgwKtEo1SrdpIeA6gVnnsrZq0SWvSvsmE1AZl9naOyD5F3LTcgzV1aLvismwkuttuoH6GaFDJTjthUPadRz1eg.8wDZQABJRdRjuus3BOrN5kwT86fAFxiWu_SHpN_NISQO28GKiy87qao7YdIyt_u8LeXGCPc_bnxxTTp-3yGvnA)][[code](https://github.com/YafeiXu/bscQuantlet)][[book](http://www.springer.com/gp/book/9783319553351)]  
 
-[5] Ya Fei Xu. 2017\. An R Package `EnergyOnlineCPM'.   announced in researchGate [[pdf](https://www.researchgate.net/publication/313838019_Reference_Manual_An_R_Package_%27EnergyOnlineCPM%27)][[project](https://sites.google.com/site/energyonlinecpm/)]  
 
 [6] Ya Fei Xu. 2014\. An R Package `CDO'.
 announced in researchGate [[pdf](https://www.researchgate.net/publication/313837768_Reference_Manual_An_R_Package_%27CDO%27)][[project](https://sites.google.com/site/cdowithr/)]  

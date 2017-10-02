@@ -23,7 +23,7 @@ The **International Research Training Group (IRTG) 1792** "High Dimensional Nons
 2016 Visiting Scholar, Libera Università di Bolzano, Italy (by **DAAD Visiting Scholarship** [[pdf](https://github.com/YafeiXu/working_paper/blob/master/DAAD-certificate.pdf)], hosted by Prof. Dr. Fabrizio Durante)   
 
 ## Papers (articles, chapters and softwares)
-[1] Ya Fei Xu\*. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test.
+[1] Ya Fei Xu. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test.
 **The Comprehensive R Archive Network**. [[CRAN-page](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM/EnergyOnlineCPM.pdf)]
 ```R
 install.packages("EnergyOnlineCPM")

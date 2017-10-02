@@ -29,7 +29,7 @@ install.packages("EnergyOnlineCPM")
 library(EnergyOnlineCPM)
 ```
 
-[2] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Control Chart for High-Dimensional Financial Surveillance
+[2] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Control Chart for High-Dimensional Financial Surveillance.  
 announced in researchGate [[pdf](https://www.researchgate.net/publication/318447071_A_Nonparametric_Multivariate_Control_Chart_for_High-Dimensional_Financial_Surveillance)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]
 
 

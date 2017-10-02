@@ -5,7 +5,10 @@ YA FEI XU (许亚菲 江苏连云港)
 
 Email: <span style="color: #030af4;">yafei.xu@hu-berlin.de</span>  
 Office-Tel: +49 (351) 463-36878  
-Address: WEN 20-13-60, Franz-Mehring-Platz 2, D-10243 Berlin, Germany
+Address: WEN 20-13-60, Franz-Mehring-Platz 2, D-10243 Berlin, Germany  
+GoogleScholar: https://scholar.google.com/citations?user=QpRUvNIAAAAJ&hl=en  
+ResearchGate: https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jiangsulianyungang 
+
 
 
 

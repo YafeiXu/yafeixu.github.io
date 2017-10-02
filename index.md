@@ -6,8 +6,8 @@ YA FEI XU (许亚菲 江苏连云港)
 Email: <span style="color: #030af4;">yafei.xu@hu-berlin.de</span>  
 Office-Tel: +49 (351) 463-36878  
 Address: WEN 20-13-60, Franz-Mehring-Platz 2, D-10243 Berlin, Germany  
-GoogleScholar: https://scholar.google.com/citations?user=QpRUvNIAAAAJ&hl=en  
-ResearchGate: https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jiangsulianyungang 
+GoogleScholar: [[link](https://scholar.google.com/citations?user=QpRUvNIAAAAJ&hl=en)]
+ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jiangsulianyungang)] 
 
 
 
@@ -74,11 +74,7 @@ VL: Multivariate Statistical Analysis I , WiSe 2014/15 (HU Berlin)
 Ü: Theoretische Multivariate Statistik, WiSe 2015/16 (TU Dresden)  
 
 ## Anonymous Reviewer 
-AStA Advances in Statistical Analysis [[link](http://www.springer.com/statistics/journal/10182)]  
-
-## My GoogleScholar Citation [[link](https://scholar.google.com/citations?user=QpRUvNIAAAAJ&hl=en)]  
-
-## My ResearchGate [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jiangsulianyungang)] 
+AStA Advances in Statistical Analysis (SCI), The North American Journal of Economics and Finance (SSCI)
 
 ## Hobby (collection of some Straußes)  
 Vaterländischer Marsch, Johann and Josef Strauß, Vienna Philharmonic 2002 by Mariss Jansons [[link](https://www.youtube.com/watch?v=_k4KxaW-Qy4)]  

@@ -24,7 +24,7 @@ The **International Research Training Group (IRTG) 1792** "High Dimensional Nons
 
 ## Papers (articles, chapters and softwares)
 [1] Ya Fei Xu\*. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test.
-**The Comprehensive R Archive Network** [[CRAN-page](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM/EnergyOnlineCPM.pdf)]
+**The Comprehensive R Archive Network**. [[CRAN-page](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM/EnergyOnlineCPM.pdf)]
 ```R
 install.packages("EnergyOnlineCPM")
 library(EnergyOnlineCPM)
@@ -35,7 +35,7 @@ announced in researchGate [[pdf](https://www.researchgate.net/publication/318447
 
 
 [3] Ostap Okhrin and Ya Fei Xu\*. A Comparison Study of Pricing Credit Default Swap Index Tranches with Convex Combination of Copulae.
-**North American Journal of Economics and Finance**, Vol. 42C (2017) pp. 193-217 [[Elsevier](http://www.sciencedirect.com/science/article/pii/S106294081630078X)][[pdf](https://www.researchgate.net/publication/309204261_A_Comparison_Study_of_Pricing_Credit_Default_Swap_Index_Tranches_with_Convex_Combination_of_Copulae)][[slides](https://www.researchgate.net/profile/Yafei_Xu3/publication/315656346_A_Comparison_Study_of_Pricing_Credit_Default_Swap_Index_Tranches_with_Convex_Combination_of_Copulae/links/58d8b62692851c44d4ad31ab/A-Comparison-Study-of-Pricing-Credit-Default-Swap-Index-Tranches-with-Convex-Combination-of-Copulae.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=KJWyapOcbS1qM2-8-QUeiPkzXABGdumLUBGrJn_yYbOFEGAfrWXJyudl_HNTRe8uPr_cBEHelAooD5M7K4x9tOM5zBlki-Wxgy57TEgmrE4.RERLuvCDHo884hsPaxgakxdS5_P7mhvzME-KtKpNbJQbKCb2FSLaowkRxuy3vUyoOq85IOZplXr614ojKiHjaw.d3QS4kt7MODnknK5Jz5JarloZED10trIZzALAn6mXPWt-m2NRddqQfaapdExhYnCfHiqnn24aWRbAQqrTHPlPQ.suVvSKAr--U5eMaoPOKNLEhxbJnIf1RLdFfebdeA1t_o3NOa931gXVwcFbnf70hbda-oZRNMHi9Lnrl4h9e-Pw)]  
+**North American Journal of Economics and Finance**, Vol. 42C (2017) pp. 193-217. [[Elsevier](http://www.sciencedirect.com/science/article/pii/S106294081630078X)][[pdf](https://www.researchgate.net/publication/309204261_A_Comparison_Study_of_Pricing_Credit_Default_Swap_Index_Tranches_with_Convex_Combination_of_Copulae)][[slides](https://www.researchgate.net/profile/Yafei_Xu3/publication/315656346_A_Comparison_Study_of_Pricing_Credit_Default_Swap_Index_Tranches_with_Convex_Combination_of_Copulae/links/58d8b62692851c44d4ad31ab/A-Comparison-Study-of-Pricing-Credit-Default-Swap-Index-Tranches-with-Convex-Combination-of-Copulae.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=KJWyapOcbS1qM2-8-QUeiPkzXABGdumLUBGrJn_yYbOFEGAfrWXJyudl_HNTRe8uPr_cBEHelAooD5M7K4x9tOM5zBlki-Wxgy57TEgmrE4.RERLuvCDHo884hsPaxgakxdS5_P7mhvzME-KtKpNbJQbKCb2FSLaowkRxuy3vUyoOq85IOZplXr614ojKiHjaw.d3QS4kt7MODnknK5Jz5JarloZED10trIZzALAn6mXPWt-m2NRddqQfaapdExhYnCfHiqnn24aWRbAQqrTHPlPQ.suVvSKAr--U5eMaoPOKNLEhxbJnIf1RLdFfebdeA1t_o3NOa931gXVwcFbnf70hbda-oZRNMHi9Lnrl4h9e-Pw)]  
 [https://doi.org/10.1016/j.najef.2017.07.004](https://doi.org/10.1016/j.najef.2017.07.004)
 
 

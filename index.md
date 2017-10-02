@@ -16,6 +16,7 @@ Address: WEN 20-13-60, Franz-Mehring-Platz 2, D-10243 Berlin, Germany
 ## Education  
 2014-PhD Statistics Candidate, Humboldt-Universität zu Berlin, Germany (by **Chinese Government Scholarship** [[pdf](https://github.com/YafeiXu/working_paper/blob/master/CSC-certificate.pdf)])  
 The **International Research Training Group (IRTG) 1792** "High Dimensional Nonstationary Time Series" 
+
 2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany  
 2011 MSc Management Science, Tongji University Shanghai, China  
 2006 BSc Management Science, Chengdu University of Technology, China  
@@ -24,7 +25,9 @@ The **International Research Training Group (IRTG) 1792** "High Dimensional Nons
 ## Papers (articles, chapters and softwares)
 [1] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Control Chart for High-Dimensional Financial Surveillance
 announced in researchGate [[pdf](https://www.researchgate.net/publication/318447071_A_Nonparametric_Multivariate_Control_Chart_for_High-Dimensional_Financial_Surveillance)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)][[R-Package](https://sites.google.com/site/energyonlinecpm/)][[R-Manual](https://www.researchgate.net/publication/313838019_Reference_Manual_An_R_Package_%27EnergyOnlineCPM%27)]
+
 :smiley::six::six::six::+1:R-Package "EnergyOnlineCPM" accepted on CRAN:
+
 [https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)
 $\texttt{install.packages("EnergyOnlineCPM")}$
 $\texttt{library(EnergyOnlineCPM)}$

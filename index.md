@@ -26,7 +26,7 @@ The **International Research Training Group (IRTG) 1792** "High Dimensional Nons
 [1] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Control Chart for High-Dimensional Financial Surveillance
 announced in researchGate [[pdf](https://www.researchgate.net/publication/318447071_A_Nonparametric_Multivariate_Control_Chart_for_High-Dimensional_Financial_Surveillance)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]
 
-R-Package "EnergyOnlineCPM" accepted on CRAN: [CRAN link](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)[Reference manual](https://cran.r-project.org/web/packages/EnergyOnlineCPM/EnergyOnlineCPM.pdf)
+R-Package "EnergyOnlineCPM" accepted by CRAN: [[webpage](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)] [[reference manual](https://cran.r-project.org/web/packages/EnergyOnlineCPM/EnergyOnlineCPM.pdf)]
 ```R
 install.packages("EnergyOnlineCPM")
 library(EnergyOnlineCPM)

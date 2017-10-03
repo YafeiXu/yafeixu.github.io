@@ -4,11 +4,11 @@ YA FEI XU (许亚菲 江苏连云港)
 <img src="https://scholar.google.com/citations?view_op=view_photo&user=QpRUvNIAAAAJ&citpid=5" align="left">
 
 Email CN: <span style="color: #030af4;">yafei.xu.huberlin [at] foxmail.com</span>  
-Email DE: yafei.xu [at] hu-berlin.de       
-GoogleScholar: [[link](https://scholar.google.com/citations?user=QpRUvNIAAAAJ&hl=en)]    
-ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jiangsulianyungang)]     
+Email DE: yafei.xu [at] hu-berlin.de           
 Office-Tel: +49 (351) 463-36878    
 Address: WEN 20-13-60, Franz-Mehring-Platz 2, D-10243 Berlin, Germany.  
+GoogleScholar: [[link](https://scholar.google.com/citations?user=QpRUvNIAAAAJ&hl=en)]    
+ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jiangsulianyungang)]     
 
 
 

@@ -15,12 +15,12 @@ Address: WEN 20-13-60, Franz-Mehring-Platz 2, D-10243 Berlin, Germany.
 ***
 
 ## Education  
-2014-PhD Statistics Candidate, Humboldt-Universität zu Berlin, Germany (by **Chinese Government Scholarship** [[pdf](https://github.com/YafeiXu/working_paper/blob/master/CSC-certificate.pdf)])  
+2014-PhD Statistics Candidate, Humboldt-Universität zu Berlin, Germany (by **Chinese Government Scholarship**)
 The **International Research Training Group (IRTG) 1792** "High Dimensional Nonstationary Time Series".   
 2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany  
 2011 MSc Management Science, Tongji University Shanghai, China  
 2006 BSc Management Science, Chengdu University of Technology, China  
-2016 Visiting Scholar, Libera Università di Bolzano, Italy (by **DAAD Visiting Scholarship** [[pdf](https://github.com/YafeiXu/working_paper/blob/master/DAAD-certificate.pdf)], hosted by Prof. Dr. Fabrizio Durante)   
+2016 Visiting Scholar, Libera Università di Bolzano, Italy (by **DAAD Visiting Scholarship**, hosted by Prof. Dr. Fabrizio Durante)   
 
 ## Papers (articles, chapters and softwares)
 [1] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Control Chart for High-Dimensional Financial Surveillance.  

@@ -62,8 +62,8 @@ MMSTAT [[code](https://github.com/QuantLet/MMSTAT)][[slides](https://www.researc
 09.2017 Seminar Statistical Process Control,  Europa-Universität Viadrina, Germany 
 
 ## Research Concentration  
-copula and dependence modeling
-quantitative finance
+copula and dependence modeling  
+quantitative finance  
 multivariate statistical process control
   
 ## Teaching

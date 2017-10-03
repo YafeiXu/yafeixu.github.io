@@ -64,7 +64,7 @@ MMSTAT [[code](https://github.com/QuantLet/MMSTAT)][[slides](https://www.researc
 ## Research Concentration  
 copula and dependence modeling  
 quantitative finance  
-multivariate statistical process control
+multivariate statistical process control (Phase II MSPC)
   
 ## Teaching
 VL: Theoretische Multivariate Statistik (vertretungsweise), WiSe 2015/16 (TU Dresden)  
@@ -74,7 +74,8 @@ VL: Multivariate Statistical Analysis I , WiSe 2014/15 (HU Berlin)
 Ü: Theoretische Multivariate Statistik, WiSe 2015/16 (TU Dresden)  
 
 ## Anonymous Reviewer 
-AStA Advances in Statistical Analysis (SCI), The North American Journal of Economics and Finance (SSCI)
+AStA Advances in Statistical Analysis (SCI)  
+The North American Journal of Economics and Finance (SSCI)
 
 ## Hobby (collection of some Straußes)  
 Vaterländischer Marsch, Johann and Josef Strauß, Vienna Philharmonic 2002 by Mariss Jansons [[link](https://www.youtube.com/watch?v=_k4KxaW-Qy4)]  

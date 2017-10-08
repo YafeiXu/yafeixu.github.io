@@ -14,7 +14,7 @@ ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jia
 
 ***
 ## Placement Obtained
-Lecturer, Beijing University of Technology, Beijing, PR China
+Lecturer, Beijing University of Technology, Beijing, PR China   
 Post-Doc, Tsinghua University, Beijing, PR China
 
 ## Education  

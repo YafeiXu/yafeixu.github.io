@@ -13,6 +13,9 @@ ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jia
 
 
 ***
+## Placement Obtained
+Lecturer, Beijing University of Technology, Beijing, PR China
+Post-Doc, Tsinghua University, Beijing, PR China
 
 ## Education  
 2014-PhD Statistics Candidate, Humboldt-Universität zu Berlin, Germany (by **Chinese Government Scholarship**)   
@@ -73,7 +76,7 @@ VL: Angewandte Multivariate Statistik (vertretungsweise), SoSe 2015 (TU Dresden)
 VL: Multivariate Statistical Analysis I , WiSe 2014/15 (HU Berlin)  
 Ü: Theoretische Multivariate Statistik, WiSe 2015/16 (TU Dresden)  
 
-## Anonymous Reviewer 
+## Referring
 AStA Advances in Statistical Analysis (SCI)  
 The North American Journal of Economics and Finance (SSCI)
 

@@ -76,7 +76,7 @@ VL: Angewandte Multivariate Statistik (vertretungsweise), SoSe 2015 (TU Dresden)
 VL: Multivariate Statistical Analysis I , WiSe 2014/15 (HU Berlin)  
 Ü: Theoretische Multivariate Statistik, WiSe 2015/16 (TU Dresden)  
 
-## Referring
+## Refereeing
 AStA Advances in Statistical Analysis (SCI)  
 The North American Journal of Economics and Finance (SSCI)
 

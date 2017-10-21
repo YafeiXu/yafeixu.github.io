@@ -39,12 +39,12 @@ library(EnergyOnlineCPM)
 ```
 [3] Ostap Okhrin and Ya Fei Xu\*. A Comparison Study of Pricing Credit Default Swap Index Tranches with Convex Combination of Copulae.  
 **North American Journal of Economics and Finance**, Vol. 42C (2017) pp. 193-217. [[Elsevier](http://www.sciencedirect.com/science/article/pii/S106294081630078X)][[pdf](https://www.researchgate.net/publication/309204261_A_Comparison_Study_of_Pricing_Credit_Default_Swap_Index_Tranches_with_Convex_Combination_of_Copulae)][[slides](https://www.researchgate.net/profile/Yafei_Xu3/publication/315656346_A_Comparison_Study_of_Pricing_Credit_Default_Swap_Index_Tranches_with_Convex_Combination_of_Copulae/links/58d8b62692851c44d4ad31ab/A-Comparison-Study-of-Pricing-Credit-Default-Swap-Index-Tranches-with-Convex-Combination-of-Copulae.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=KJWyapOcbS1qM2-8-QUeiPkzXABGdumLUBGrJn_yYbOFEGAfrWXJyudl_HNTRe8uPr_cBEHelAooD5M7K4x9tOM5zBlki-Wxgy57TEgmrE4.RERLuvCDHo884hsPaxgakxdS5_P7mhvzME-KtKpNbJQbKCb2FSLaowkRxuy3vUyoOq85IOZplXr614ojKiHjaw.d3QS4kt7MODnknK5Jz5JarloZED10trIZzALAn6mXPWt-m2NRddqQfaapdExhYnCfHiqnn24aWRbAQqrTHPlPQ.suVvSKAr--U5eMaoPOKNLEhxbJnIf1RLdFfebdeA1t_o3NOa931gXVwcFbnf70hbda-oZRNMHi9Lnrl4h9e-Pw)]  
-[https://doi.org/10.1016/j.najef.2017.07.004](https://doi.org/10.1016/j.najef.2017.07.004)
+[DOI: 10.1016/j.najef.2017.07.004](http://www.sciencedirect.com/science/article/pii/S106294081630078X)
 
 
 [4] Ostap Okhrin, Alexander Ristig and Ya Fei Xu\*. Copulae in High Dimensions: An Introduction.   
 **Applied Quantitative Finance**, W. Härdle, C. Chen, & L. Overbeck (Eds.). (2017), pp. 247-277. Springer-Verlag Berlin Heidelberg.             [[pdf](https://www.researchgate.net/publication/318881867_Copulae_in_High_Dimensions_An_Introduction)][[code](https://github.com/QuantLet/XFG3)][[book](https://link.springer.com/book/10.1007/978-3-662-54486-0)]  
-[https://doi.org/10.1007/978-3-662-54486-0_13](https://doi.org/10.1007/978-3-662-54486-0_13)
+[DOI: 10.1007/978-3-662-54486-0_13](https://doi.org/10.1007/978-3-662-54486-0_13)
 
 
 [5] Ostap Okhrin and Ya Fei Xu\*. Numerical Techniques.   

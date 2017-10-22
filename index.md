@@ -27,7 +27,7 @@ The **International Research Training Group (IRTG) 1792** "High Dimensional Nons
 
 ## Papers (articles, chapters and softwares)
 [1] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Control Chart for High-Dimensional Financial Surveillance.  
-submitted in **Computational Statistics and Data Analysis** [[pdf](https://github.com/YafeiXu/working_paper/raw/master/CPM102.pdf)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]
+submitted [[pdf](https://github.com/YafeiXu/working_paper/raw/master/CPM102.pdf)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]
 
 [2] Ya Fei Xu. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test.  
 **The Comprehensive R Archive Network**. [[code](https://cran.r-project.org/src/contrib/EnergyOnlineCPM_1.0.tar.gz)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM/EnergyOnlineCPM.pdf)]  

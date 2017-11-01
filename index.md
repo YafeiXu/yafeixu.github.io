@@ -13,10 +13,6 @@ ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jia
 
 
 ***
-## Placement Obtained
-Lecturer, Beijing University of Technology, Beijing, PR China   
-Post-Doc, Tsinghua University, Beijing, PR China
-
 ## Education  
 2014-PhD Statistics Candidate, Humboldt-Universität zu Berlin, Germany (by **Chinese Government Scholarship**)   
 The **International Research Training Group (IRTG) 1792** "High Dimensional Nonstationary Time Series".   

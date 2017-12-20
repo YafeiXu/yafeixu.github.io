@@ -26,7 +26,8 @@ submitted [[pdf](https://github.com/YafeiXu/working_paper/raw/master/CPM102.pdf)
 
 [2] Ya Fei Xu. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test.  
 k**The Comprehensive R Archive Network**. [[code](https://cran.r-project.org/src/contrib/EnergyOnlineCPM_1.0.tar.gz)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM)]    
-[https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)  [<u>Recent 30 days' downloads of "EnergyOnlineCPM" comparing to "NPMVCP"</u>](https://xuyafei1.shinyapps.io/shiny/)  
+[https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)    
+[<u>Recent 30 days' downloads of "EnergyOnlineCPM" comparing to "NPMVCP"</u>](https://xuyafei1.shinyapps.io/shiny/)  
 
 ```R
 install.packages("EnergyOnlineCPM")
@@ -88,4 +89,4 @@ Wiener leben, Josef Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](htt
 Wein, Weib und Gesang, Johann Strauß II, Vienna Philharmonic 2000 by Riccardo Muti [[link](https://www.youtube.com/watch?v=hGqH6le7QoI)]
 
 
-[![](//clustrmaps.com/map_v2.png?cl=0e1633&w=a&t=tt&d=ZEyQFXd6AhKiGuXzWw5CacldY3nE2Ujiv4HO4zmwEmQ&co=0b4975&ct=cdd4d9)](https://clustrmaps.com/site/19ncd "Visit tracker)
+[![](//clustrmaps.com/map_v2.png?cl=0e1633&w=a&t=tt&d=ZEyQFXd6AhKiGuXzWw5CacldY3nE2Ujiv4HO4zmwEmQ&co=0b4975&ct=cdd4d9)](https://clustrmaps.com/site/19ncd)

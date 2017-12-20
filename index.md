@@ -80,7 +80,7 @@ The North American Journal of Economics and Finance (SSCI)
 ## Hobby (collection of some Straußes)  
 Vaterländischer Marsch, Johann and Josef Strauß, Vienna Philharmonic 2002 by Mariss Jansons [[link](https://www.youtube.com/watch?v=_k4KxaW-Qy4)]  
 Eingesendet, Josef Strauß, Vienna Philharmonic 1997 by Riccardo Muti [[link](https://www.youtube.com/watch?v=hnXgmrXthIk)]  
-Auf der Jagd, Johann Strauß, Vienna Philharmonic 1993 by Riccardo Muti [[link](https://www.youtube.com/watch?v=39RpnGSWb-U)] 
+Auf der Jagd, Johann Strauß, Vienna Philharmonic 1993 by Riccardo Muti [[link](https://www.youtube.com/watch?v=39RpnGSWb-U)]    
 Mit chic, Eduard Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](https://www.youtube.com/watch?v=rrPpLUI5m2w&feature=share&list=PLuBGjVk8rLS7BYfKSDSgT2imibf9nm1a4&index=17)]  
 Dorfschwalben aus Österreich, Josef Strauß, Vienna Philharmonic 1992 by Carlos Kleiber [[link](https://www.youtube.com/watch?v=4pGa-E2rskA)]  
 Wo man lacht und lebt, Eduard Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](https://rutube.ru/video/9af8e9a1d9b0e9b657e6e45179ac5ba3/)]  

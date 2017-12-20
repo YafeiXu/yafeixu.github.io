@@ -1,4 +1,4 @@
-YA FEI XU (许亚菲 江苏连云港)
+  YA FEI XU (许亚菲 江苏连云港)
 =======================
 
 <img src="https://scholar.google.com/citations?view_op=view_photo&user=QpRUvNIAAAAJ&citpid=5" align="left">
@@ -24,10 +24,11 @@ The **International Research Training Group (IRTG) 1792** "High Dimensional Nons
 [1] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Control Chart for High-Dimensional Financial Surveillance.  
 submitted [[pdf](https://github.com/YafeiXu/working_paper/raw/master/CPM102.pdf)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]
 
-[2] Ya Fei Xu. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test.  
+[2] Ya Fei Xu. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test. 
 **The Comprehensive R Archive Network**. [[code](https://cran.r-project.org/src/contrib/EnergyOnlineCPM_1.0.tar.gz)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM/EnergyOnlineCPM.pdf)]  
-[https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)
+[https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html  
 [30 days' downloads of "EnergyOnlineCPM" comparing to "NPMVCP"](https://xuyafei1.shinyapps.io/shiny/)  
+
 ```R
 install.packages("EnergyOnlineCPM")
 library(EnergyOnlineCPM)
@@ -38,7 +39,7 @@ library(EnergyOnlineCPM)
 
 
 [4] Ostap Okhrin, Alexander Ristig and Ya Fei Xu\*. Copulae in High Dimensions: An Introduction.   
-**Applied Quantitative Finance**, W. Härdle, C. Chen, & L. Overbeck (Eds.). (2017), pp. 247-277. Springer-Verlag Berlin Heidelberg.             [[pdf](https://www.researchgate.net/publication/318881867_Copulae_in_High_Dimensions_An_Introduction)][[code](https://github.com/QuantLet/XFG3)][[book](https://link.springer.com/book/10.1007/978-3-662-54486-0)]  
+**Applied Quantitative Finance**, W. Härdle, C. Chen, & L. Overbeck (Eds.). (2017), pp. 247-277. Springer-Verlag Berlin Heidelberg. [[pdf](https://www.researchgate.net/publication/318881867_Copulae_in_High_Dimensions_An_Introduction)][[code](https://github.com/QuantLet/XFG3)][[book](https://link.springer.com/book/10.1007/978-3-662-54486-0)]  
 [DOI: 10.1007/978-3-662-54486-0_13](https://doi.org/10.1007/978-3-662-54486-0_13)
 
 
@@ -61,7 +62,7 @@ MMSTAT [[code](https://github.com/QuantLet/MMSTAT)][[slides](https://www.researc
 09.2017 Seminar Statistical Process Control,  Europa-Universität Viadrina, Germany 
 
 ## Research Concentration  
-copula and dependence modeling  
+copula and dependence modeling 
 quantitative finance  
 multivariate statistical process control (Phase II MSPC)
   
@@ -70,7 +71,7 @@ VL: Theoretische Multivariate Statistik (vertretungsweise), WiSe 2015/16 (TU Dre
 VL: Statistical Programming Languages, WiSe 2015/16 (HU Berlin)   
 VL: Angewandte Multivariate Statistik (vertretungsweise), SoSe 2015 (TU Dresden)  
 VL: Multivariate Statistical Analysis I , WiSe 2014/15 (HU Berlin)  
-Ü: Theoretische Multivariate Statistik, WiSe 2015/16 (TU Dresden)  
+Ü: Theoretische Multivariate Statistik, WiSe 2015/16 (TU Dresden) 
 
 ## Refereeing
 AStA Advances in Statistical Analysis (SCI)  
@@ -79,7 +80,7 @@ The North American Journal of Economics and Finance (SSCI)
 ## Hobby (collection of some Straußes)  
 Vaterländischer Marsch, Johann and Josef Strauß, Vienna Philharmonic 2002 by Mariss Jansons [[link](https://www.youtube.com/watch?v=_k4KxaW-Qy4)]  
 Eingesendet, Josef Strauß, Vienna Philharmonic 1997 by Riccardo Muti [[link](https://www.youtube.com/watch?v=hnXgmrXthIk)]  
-Auf der Jagd, Johann Strauß, Vienna Philharmonic 1993 by Riccardo Muti [[link](https://www.youtube.com/watch?v=39RpnGSWb-U)]  
+Auf der Jagd, Johann Strauß, Vienna Philharmonic 1993 by Riccardo Muti [[link](https://www.youtube.com/watch?v=39RpnGSWb-U)] 
 Mit chic, Eduard Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](https://www.youtube.com/watch?v=rrPpLUI5m2w&feature=share&list=PLuBGjVk8rLS7BYfKSDSgT2imibf9nm1a4&index=17)]  
 Dorfschwalben aus Österreich, Josef Strauß, Vienna Philharmonic 1992 by Carlos Kleiber [[link](https://www.youtube.com/watch?v=4pGa-E2rskA)]  
 Wo man lacht und lebt, Eduard Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](https://rutube.ru/video/9af8e9a1d9b0e9b657e6e45179ac5ba3/)]  
@@ -87,5 +88,4 @@ Wiener leben, Josef Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](htt
 Wein, Weib und Gesang, Johann Strauß II, Vienna Philharmonic 2000 by Riccardo Muti [[link](https://www.youtube.com/watch?v=hGqH6le7QoI)]
 
 
-[![](//clustrmaps.com/map_v2.png?cl=0e1633&w=a&t=tt&d=ZEyQFXd6AhKiGuXzWw5CacldY3nE2Ujiv4HO4zmwEmQ&co=0b4975&ct=cdd4d9)](https://clustrmaps.com/site/19ncd "Visit tracker")
-
+[![](//clustrmaps.com/map_v2.png?cl=0e1633&w=a&t=tt&d=ZEyQFXd6AhKiGuXzWw5CacldY3nE2Ujiv4HO4zmwEmQ&co=0b4975&ct=cdd4d9)](https://clustrmaps.com/site/19ncd "Visit trac

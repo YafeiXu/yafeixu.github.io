@@ -1,6 +1,5 @@
 YA FEI XU (许亚菲 江苏连云港)
 =======================
-
 <img src="https://scholar.google.com/citations?view_op=view_photo&user=QpRUvNIAAAAJ&citpid=5" align="left">
 
 Email CN: <span style="color: #030af4;">yafei.xu.huberlin [at] foxmail.com</span>  
@@ -25,15 +24,12 @@ The **International Research Training Group (IRTG) 1792** "High Dimensional Nons
 submitted [[pdf](https://github.com/YafeiXu/working_paper/raw/master/CPM102.pdf)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]
 
 [2] Ya Fei Xu. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test.  
-**The Comprehensive R Archive Network**. [[code](https://cran.r-project.org/src/contrib/EnergyOnlineCPM_1.0.tar.gz)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM)]    
-[https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)  
-[<u>Recent 30 days' downloads of "EnergyOnlineCPM" comparing to "NPMVCP"</u>](https://xuyafei1.shinyapps.io/shiny/)  
+k**The Comprehensive R Archive Network**. [[code](https://cran.r-project.org/src/contrib/EnergyOnlineCPM_1.0.tar.gz)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM)]    
+[https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)  [<u>Recent 30 days' downloads of "EnergyOnlineCPM" comparing to "NPMVCP"</u>](https://xuyafei1.shinyapps.io/shiny/)  
 
-<img src="https://xuyafei1.shinyapps.io/shiny/" align="left">
 ```R
 install.packages("EnergyOnlineCPM")
-library(EnergyOnlineCPM)
-```
+library(EnergyOnlineCPM)```
 [3] Ostap Okhrin and Ya Fei Xu\*. A Comparison Study of Pricing Credit Default Swap Index Tranches with Convex Combination of Copulae.  
 **North American Journal of Economics and Finance**, Vol. 42C (2017) pp. 193-217. [[Elsevier](http://www.sciencedirect.com/science/article/pii/S106294081630078X)][[pdf](https://www.researchgate.net/publication/309204261_A_Comparison_Study_of_Pricing_Credit_Default_Swap_Index_Tranches_with_Convex_Combination_of_Copulae)][[slides](https://www.researchgate.net/profile/Yafei_Xu3/publication/315656346_A_Comparison_Study_of_Pricing_Credit_Default_Swap_Index_Tranches_with_Convex_Combination_of_Copulae/links/58d8b62692851c44d4ad31ab/A-Comparison-Study-of-Pricing-Credit-Default-Swap-Index-Tranches-with-Convex-Combination-of-Copulae.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=KJWyapOcbS1qM2-8-QUeiPkzXABGdumLUBGrJn_yYbOFEGAfrWXJyudl_HNTRe8uPr_cBEHelAooD5M7K4x9tOM5zBlki-Wxgy57TEgmrE4.RERLuvCDHo884hsPaxgakxdS5_P7mhvzME-KtKpNbJQbKCb2FSLaowkRxuy3vUyoOq85IOZplXr614ojKiHjaw.d3QS4kt7MODnknK5Jz5JarloZED10trIZzALAn6mXPWt-m2NRddqQfaapdExhYnCfHiqnn24aWRbAQqrTHPlPQ.suVvSKAr--U5eMaoPOKNLEhxbJnIf1RLdFfebdeA1t_o3NOa931gXVwcFbnf70hbda-oZRNMHi9Lnrl4h9e-Pw)]  
 [DOI: 10.1016/j.najef.2017.07.004](http://www.sciencedirect.com/science/article/pii/S106294081630078X)
@@ -89,4 +85,4 @@ Wiener leben, Josef Strauß, Vienna Philharmonic 2015 by Zubin Mehta [[link](htt
 Wein, Weib und Gesang, Johann Strauß II, Vienna Philharmonic 2000 by Riccardo Muti [[link](https://www.youtube.com/watch?v=hGqH6le7QoI)]
 
 
-[![](//clustrmaps.com/map_v2.png?cl=0e1633&w=a&t=tt&d=ZEyQFXd6AhKiGuXzWw5CacldY3nE2Ujiv4HO4zmwEmQ&co=0b4975&ct=cdd4d9)](https://clustrmaps.com/site/19ncd "Visit trac
+[![](//clustrmaps.com/map_v2.png?cl=0e1633&w=a&t=tt&d=ZEyQFXd6AhKiGuXzWw5CacldY3nE2Ujiv4HO4zmwEmQ&co=0b4975&ct=cdd4d9)](https://clustrmaps.com/site/19ncd "Visit tracker)

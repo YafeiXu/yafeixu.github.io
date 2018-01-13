@@ -13,7 +13,6 @@ ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jia
 ***
 ## Education  
 2014-PhD Statistics Candidate, Humboldt-Universität zu Berlin, Germany (by **Chinese Government Scholarship**)   
-The **International Research Training Group (IRTG) 1792** "High Dimensional Nonstationary Time Series".   
 2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany  
 2011 MSc Management Science, Tongji University Shanghai, China  
 2006 BSc Management Science, Chengdu University of Technology, China  

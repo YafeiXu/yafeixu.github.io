@@ -29,7 +29,7 @@ submitted [[pdf](https://github.com/YafeiXu/working_paper/raw/master/CPM102.pdf)
 
 
 ```R
-8install.packages("EnergyOnlineCPM")
+install.packages("EnergyOnlineCPM")
 library(EnergyOnlineCPM)
 ```
 

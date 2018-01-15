@@ -19,7 +19,7 @@ ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jia
 2016 Visiting Scholar, Libera Università di Bolzano, Italy (by **DAAD Visiting Scholarship**, hosted by Prof. Dr. Fabrizio Durante)   
 
 ## Papers (articles, chapters and softwares)
-[1] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Control Chart for High-Dimensional Financial Surveillance.  
+[1] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Statistical Process Control Chart for High-Dimensional Financial Surveillance.  
 submitted [[pdf](https://github.com/YafeiXu/working_paper/raw/master/CPM102.pdf)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]
 
 [2] Ya Fei Xu. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test.   

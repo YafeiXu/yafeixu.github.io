@@ -23,7 +23,7 @@ ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jia
 submitted [[pdf](https://github.com/YafeiXu/working_paper/raw/master/CPM102.pdf)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]
 
 [2] Ya Fei Xu. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test.   
-**The Comprehensive R Archive Network**. [[CRAN](https://cran.r-project.org/web/packages/EnergyOnlineCPM)][[code](https://cran.r-project.org/src/contrib/EnergyOnlineCPM_1.0.tar.gz)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM)]    
+**The Comprehensive R Archive Network**. [[CRAN](https://cran.r-project.org/web/packages/EnergyOnlineCPM)][[GoogleSite](https://sites.google.com/site/energyonlinecpm/home)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM)]    
 
 [![Rdoc](http://www.rdocumentation.org/badges/version/EnergyOnlineCPM)](http://www.rdocumentation.org/packages/EnergyOnlineCPM)   
 

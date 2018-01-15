@@ -24,7 +24,7 @@ submitted [[pdf](https://github.com/YafeiXu/working_paper/raw/master/CPM102.pdf)
 
 [2] Ya Fei Xu. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test.   
 **The Comprehensive R Archive Network**. [[code](https://cran.r-project.org/src/contrib/EnergyOnlineCPM_1.0.tar.gz)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM)]    
-[https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html](https://cran.r-project.org/web/packages/EnergyOnlineCPM/index.html)   
+
 [![Rdoc](http://www.rdocumentation.org/badges/version/EnergyOnlineCPM)](http://www.rdocumentation.org/packages/EnergyOnlineCPM)   
 
 

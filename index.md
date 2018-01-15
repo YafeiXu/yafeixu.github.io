@@ -68,9 +68,9 @@ MMSTAT [[code](https://github.com/QuantLet/MMSTAT)][[slides](https://www.researc
 + supervised statistical learning (SVM and SVR)
   
 ## Teaching
-VL: Theoretische Multivariate Statistik (vertretungsweise), WiSe 2015/16 (TU Dresden)  
+VL: Theoretische Multivariate Statistik, WiSe 2015/16 (TU Dresden)  
 VL: Statistical Programming Languages, WiSe 2015/16 (HU Berlin)   
-VL: Angewandte Multivariate Statistik (vertretungsweise), SoSe 2015 (TU Dresden)  
+VL: Angewandte Multivariate Statistik, SoSe 2015 (TU Dresden)  
 VL: Multivariate Statistical Analysis I , WiSe 2014/15 (HU Berlin)  
 Ü: Theoretische Multivariate Statistik, WiSe 2015/16 (TU Dresden) 
 

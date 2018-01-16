@@ -62,10 +62,10 @@ MMSTAT [[code](https://github.com/QuantLet/MMSTAT)][[slides](https://www.researc
 09.2017 Seminar Statistical Process Control,  Europa-Universität Viadrina, Germany 
 
 ## Research Concentration  
-+ copula and dependence modeling (HAC, PCC, Factor copulae)
-+ financial engineering (CDS, CDO, VaR, CoVaR)  
-+ multivariate statistical process control (Phase II MSPC, NMSPC)
-+ supervised statistical learning (SVM and SVR)
++ copula and dependence modeling
++ quantitative finance
++ multivariate statistical process control
++ statistical learning 
   
 ## Teaching
 VL: Theoretische Multivariate Statistik, WiSe 2015/16 (TU Dresden)  

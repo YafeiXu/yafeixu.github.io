@@ -14,8 +14,7 @@ ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jia
 ## Education  
 2018 Dr. rer. pol. in Statistik, Humboldt-Universität zu Berlin, Germany (by **Chinese Government Scholarship**)   
 Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Sequential Surveillance  
-Promotionskommission:    
-Prof. Dr. Ostap Okhrin, Prof. Dr. Bernd Droge, Prof. Ph.D. Bernd Fitzenberger, Prof. Dr. Christoph Breunig, Ph.D. Shaofang Qi.   
+Kolloquium: Prof. Dr. Ostap Okhrin, Prof. Dr. Bernd Droge, Prof. Ph.D. Bernd Fitzenberger, Prof. Dr. Christoph Breunig, Ph.D. Shaofang Qi.   
 2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany  
 2011 MSc Management Science, Tongji University Shanghai, China  
 2006 BSc Management Science, Chengdu University of Technology, China  

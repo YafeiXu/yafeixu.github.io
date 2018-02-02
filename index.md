@@ -1,4 +1,4 @@
-# Ya Fei Xu (许亚菲 江苏连云港)
+# Dr. rer. pol. Ya Fei Xu (许亚菲 江苏连云港)
 
 <img src="https://scholar.google.com/citations?view_op=view_photo&user=QpRUvNIAAAAJ&citpid=5" align="left">
 
@@ -12,9 +12,7 @@ ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jia
 
 ***
 ## Education  
-2018 Dr. rer. pol. in Statistik, Humboldt-Universität zu Berlin, Germany (**Chinese Government Scholarship**)   
-Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Sequential Surveillance   
-Kolloquium: Prof. Dr. Ostap Okhrin, Prof. Dr. Bernd Droge, Prof. Ph.D. Bernd Fitzenberger, Prof. Dr. Christoph Breunig, Ph.D. Shaofang Qi.   
+2018 PhD Statistics, Humboldt-Universität zu Berlin, Germany (**Chinese Government Scholarship**)   
 2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany  
 2011 MSc Management Science, Tongji University Shanghai, China  
 2006 BSc Management Science, Chengdu University of Technology, China  

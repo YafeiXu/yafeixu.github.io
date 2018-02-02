@@ -1,4 +1,4 @@
-# Dr. rer. pol. Ya Fei Xu (许亚菲 江苏连云港)
+# Dr. rer. pol. Yafei Xu (许亚菲 江苏连云港)
 
 <img src="https://scholar.google.com/citations?view_op=view_photo&user=QpRUvNIAAAAJ&citpid=5" align="left">
 

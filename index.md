@@ -12,13 +12,13 @@ ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jia
 
 ***
 ## Education  
-2018 Dr. rer. pol. in Statistik, Humboldt-Universität zu Berlin, Germany (by **Chinese Government Scholarship**)   
+2018 Dr. rer. pol. in Statistik, Humboldt-Universität zu Berlin, Germany (**Chinese Government Scholarship**)   
 Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Sequential Surveillance   
 Kolloquium: Prof. Dr. Ostap Okhrin, Prof. Dr. Bernd Droge, Prof. Ph.D. Bernd Fitzenberger, Prof. Dr. Christoph Breunig, Ph.D. Shaofang Qi.   
 2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany  
 2011 MSc Management Science, Tongji University Shanghai, China  
 2006 BSc Management Science, Chengdu University of Technology, China  
-2016 Visiting Scholar, Libera Università di Bolzano, Italy (by **DAAD Visiting Scholarship**, hosted by Prof. Dr. Fabrizio Durante)   
+2016 Visiting Scholar, Libera Università di Bolzano, Italy (**DAAD Visiting Scholarship**)   
 
 ## Papers (articles, chapters and softwares)
 [1] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Statistical Process Control Chart for High-Dimensional Financial Surveillance.  

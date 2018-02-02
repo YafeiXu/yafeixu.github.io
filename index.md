@@ -13,8 +13,7 @@ ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jia
 
 ***
 ## Education  
-2018 PhD Statistics, Humboldt-Universität zu Berlin, Germany (**Chinese Government Scholarship**)   
-Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Sequential Surveillance.     
+2017 PhD candidate, Humboldt-Universität zu Berlin, Germany (**Chinese Government Scholarship**)   
 2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany     
 2011 MSc Management Science, Tongji University Shanghai, China PR   
 2006 BSc Management Science, Chengdu University of Technology, China PR  

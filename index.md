@@ -16,7 +16,7 @@ ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jia
 2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany     
 2011 MSc Management Science, Tongji University Shanghai, China PR   
 2006 BSc Management Science, Chengdu University of Technology, China PR  
-2016 Visiting Scholar, Libera Università di Bolzano, Italy (**DAAD Visiting Scholarship**)   
+2016 Research Stay, Libera Università di Bolzano, Italy (**DAAD Visiting Scholarship**)   
 
 ## Papers (articles, chapters and softwares)
 [1] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Statistical Process Control Chart for High-Dimensional Financial Surveillance.  

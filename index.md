@@ -12,11 +12,10 @@ ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jia
 
 ***
 ## Education  
-2018 PhD Statistics, Humboldt-Universität zu Berlin, Germany (**Chinese Government Scholarship**), Prof. Dr. O Okhrin, Prof. Dr. B Droge   
-
-2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany, Prof. Dr. O Okhrin, Prof. Dr. Wk Härdle   
-2011 MSc Management Science, Tongji University Shanghai, China, Prof. Dr. XY Wang  
-2006 BSc Management Science, Chengdu University of Technology, China  
+2018 PhD Statistics, Humboldt-Universität zu Berlin, Germany (**Chinese Government Scholarship**)   
+2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany     
+2011 MSc Management Science, Tongji University Shanghai, China PR   
+2006 BSc Management Science, Chengdu University of Technology, China PR  
 2016 Visiting Scholar, Libera Università di Bolzano, Italy (**DAAD Visiting Scholarship**)   
 
 ## Papers (articles, chapters and softwares)

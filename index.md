@@ -1,4 +1,3 @@
-    
 # Yafei Xu (许亚菲 江苏连云港)
 
 <img src="https://scholar.google.com/citations?view_op=view_photo&user=QpRUvNIAAAAJ&citpid=5" align="left">
@@ -14,7 +13,7 @@ ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jia
 ***
 ## Education  
 20180201 PhD Statistics and Econometrics, Humboldt-Universität zu Berlin, Germany (**Chinese Government Scholarship**)
-Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Sequential Surveillance [pdf](https://edoc.hu-berlin.de/bitstream/handle/18452/19510/dissertation_xu_yafei.pdf?sequence=3&isAllowed=y)      
+Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Sequential Surveillance [[pdf](https://edoc.hu-berlin.de/bitstream/handle/18452/19510/dissertation_xu_yafei.pdf?sequence=3&isAllowed=y)]                  
 2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany             
 2011 MSc Management Science, Tongji University Shanghai, China PR   
 2006 BSc Management Science, Chengdu University of Technology, China PR  

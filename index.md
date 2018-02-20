@@ -1,6 +1,6 @@
 # Ya Fei Xu (许亚菲 江苏连云港)
 
-<img src="https://share.weiyun.com/eb9b28190a58899fe61ef3e51a42a4d0" align="left">
+<img src="https://raw.githubusercontent.com/YafeiXu/yafeixu.github.io/master/1small.png" align="left">
 
 Email CN: <span style="color: #030af4;">yafei.xu.huberlin [at] foxmail.com</span>  
 Email DE: yafei.xu [at] hotmail.de           

@@ -4,7 +4,7 @@
 
 Email CN: <span style="color: #030af4;">yafei.xu.huberlin [at] foxmail.com</span>  
 Email DE: yafei.xu [at] hotmail.de       
-Office-Tel: +86 13248308051  
+Office-Tel Beijing: +86 13511089609  
 GoogleScholar: [[link](https://scholar.google.com/citations?user=QpRUvNIAAAAJ&hl=en)]  
 ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jiangsulianyungang)]     
 
@@ -12,7 +12,7 @@ ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jia
 
 ***
 ## Education  
-20180201 Dr. rer. pol. in Statistics and Econometrics, Humboldt-Universität zu Berlin, Germany (**Chinese Government Scholarship**)       
+20180201 Dr. rer. pol. in Statistics, Humboldt-Universität zu Berlin, Germany (**Chinese Government Scholarship**)       
 Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Sequential Surveillance [[abstract](https://edoc.hu-berlin.de/handle/18452/19510)][[pdf](https://github.com/YafeiXu/working_paper/raw/master/dissertation_xu_yafei.pdf)]                           
 2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany             
 2011 MSc Management Science, Tongji University Shanghai, China PR   

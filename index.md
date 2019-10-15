@@ -21,7 +21,7 @@ Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Se
 
 ## Papers (articles, chapters and softwares)
 [1] Ostap Okhrin and Ya Fei Xu\*. 2017. A Nonparametric Multivariate Statistical Process Control Chart for High-Dimensional Financial Surveillance.  
-**New Developments in Data Science and Data Analytics** The 2019 Meeting of the International Society for Data Science and Analytics. [[pdf](https://github.com/YafeiXu/working_paper/raw/master/CPM102.pdf)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]
+**The 2019 Meeting of the International Society for Data Science and Analytics**. [[pdf](https://github.com/YafeiXu/working_paper/raw/master/CPM102.pdf)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]
 
 [2] Ya Fei Xu. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test.   
 **The Comprehensive R Archive Network**. [[CRAN](https://cran.r-project.org/web/packages/EnergyOnlineCPM)][[GoogleSite](https://sites.google.com/site/energyonlinecpm/home)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM/EnergyOnlineCPM.pdf)]    

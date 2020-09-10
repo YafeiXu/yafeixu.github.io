@@ -7,7 +7,6 @@ Tel Beijing: +86 18600732196
 GoogleScholar: [[link](https://scholar.google.com/citations?user=QpRUvNIAAAAJ&hl=en)]  
 ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jiangsulianyungang)]     
 ORCID: [[link](https://orcid.org/0000-0002-3228-8446)]
-
 ***
 ## Education  
 20180201 Dr. rer. pol. in Statistics, Humboldt-Universität zu Berlin, Germany (**Chinese Government Scholarship**)       

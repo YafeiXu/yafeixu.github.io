@@ -20,6 +20,8 @@ Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Se
 ## Papers (articles, chapters and softwares)
 [1] Ostap Okhrin and Ya Fei Xu\*. 2020. A Nonparametric Multivariate Statistical Process Control Chart for High-Dimensional Financial Surveillance.  
 **The 2019 Meeting of the International Society for Data Science and Analytics**. [[pdf](https://github.com/YafeiXu/working_paper/raw/master/CPM102.pdf)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]
+[DOI: 10.35566/isdsa2019c2](https://doi.org/10.35566/isdsa2019c2)
+
 
 [2] Ya Fei Xu. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test.   
 **The Comprehensive R Archive Network**. [[CRAN](https://cran.r-project.org/web/packages/EnergyOnlineCPM)][[GoogleSite](https://sites.google.com/site/energyonlinecpm/home)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM/EnergyOnlineCPM.pdf)]    
@@ -46,9 +48,10 @@ library(EnergyOnlineCPM)
 **Basic Elements of Computational Statistics**, W. Härdle, O. Okhrin & Y. Okhrin (Eds.). (2017). Springer-Verlag Berlin Heidelberg.   [[pdf](https://github.com/YafeiXu/working_paper/blob/master/BCS-paper-O2-YFX.pdf)][[slides](https://www.researchgate.net/profile/Yafei_Xu3/publication/315656363_Numerical_Techniques/links/58d8b8c1aca2727e5e06e6e2/Numerical-Techniques.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=wdRpkcop1S6fh1LNWVe41IqAcLDSKrYieUasJnTnLpzrZ_WEP5M4j5SFZDaojwp2Wc4jZN-d4h86b8WB66B4DEkIsFgKX3OTj3jb044Tx_s.AJD5KuWK6Cu1AGgdW8Dc2W0r3LjFRH7xyECZe9oaA932wPHe08OXf_7rfVXrCiWhtTE7jJfx96hs4VoPPKn6QQ.jgwKtEo1SrdpIeA6gVnnsrZq0SWvSvsmE1AZl9naOyD5F3LTcgzV1aLvismwkuttuoH6GaFDJTjthUPadRz1eg.8wDZQABJRdRjuus3BOrN5kwT86fAFxiWu_SHpN_NISQO28GKiy87qao7YdIyt_u8LeXGCPc_bnxxTTp-3yGvnA)][[code](https://github.com/YafeiXu/bscQuantlet)][[book](http://www.springer.com/gp/book/9783319553351)]  
 [DOI: 10.1007/978-3-319-55336-8_2](https://link.springer.com/chapter/10.1007/978-3-319-55336-8_2)
 
+[6] Ya Fei Xu. High Dimensional Financial Engineering: Dependence Modeling and Sequential Surveillance.
+**Dissertation**, Humboldt-Universität zu Berlin.    [[pdf](https://github.com/YafeiXu/working_paper/raw/master/dissertation_xu_yafei.pdf)]
+[DOI: 10.18452/18790](https://doi.org/10.18452/18790)
 
-[6] Ya Fei Xu. 2014\. An R Package `CDO'.
-announced in researchGate [[pdf](https://www.researchgate.net/publication/313837768_Reference_Manual_An_R_Package_%27CDO%27)][[project](https://sites.google.com/site/cdowithr/)]  
   
 ## Quantlet Project
 MMSTAT [[code](https://github.com/QuantLet/MMSTAT)][[slides](https://www.researchgate.net/publication/315654977_MMSTAT_with_Shiny_Technology)][[book](http://www.springer.com/us/book/9783319177038)], COP [[slides](https://www.researchgate.net/profile/Yafei_Xu3/publication/315656520_COP-Project/links/58d8bb05aca2727e5e06e712/COP-Project.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=sxr75vmACuT7wy_6lw8-QYk8rrv4LYkTUB9loNLUTmy2xZHLSw7DIFPDikyMaSvHrjTJvJ7mVZ8G5zNf9bf96G26eQ-WwDO0aUnfQiI_Qdg.Bz-3xM6rsiDkwK74R9ZGdmi3HlT_HtmO8fAt2WRVAbZRoNrfFgxbxyXW37gU2jlCBWLHEtPIz_jd5UzWvuv-Sg.4wp5bVZecG5k7mR_8p9P9oaRG6LXj6dxe6XBg-DyAv6-dUVhoN2WSeSuzPlF9-IHY_ObqgiVz-FAycrTPufczA.-m2_BGaAS6Cxn-yQuSzgv6xpyoV6P8LKQjkRq1StI8egBy9tsV4M7Aoq2e7pZuL2ngayMJJ7fjAGt1LKMmTmNw)][[link](https://github.com/QuantLet/COP)]  

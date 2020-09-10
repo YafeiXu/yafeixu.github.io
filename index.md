@@ -2,13 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/YafeiXu/yafeixu.github.io/master/1small.png" align="left">
 
-Email CN: <span style="color: #030af4;">yafei.xu [at] alumni.hu-berlin.de</span>       
-Office-Tel Beijing: +86 13511089609  
+Email CN: <span style="color: #030af4;">xyf252918 [at] alibaba-inc.com</span>       
+Tel Beijing: +86 18600732196  
 GoogleScholar: [[link](https://scholar.google.com/citations?user=QpRUvNIAAAAJ&hl=en)]  
 ResearchGate: [[link](https://www.researchgate.net/profile/Ya_Fei_Xu_xuyafei_jiangsulianyungang)]     
 ORCID: [[link](https://orcid.org/0000-0002-3228-8446)]
 
-
+updated 2020.09.10.
 ***
 ## Education  
 20180201 Dr. rer. pol. in Statistics, Humboldt-Universität zu Berlin, Germany (**Chinese Government Scholarship**)       

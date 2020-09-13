@@ -48,8 +48,8 @@ library(EnergyOnlineCPM)
 **Basic Elements of Computational Statistics**, W. Härdle, O. Okhrin & Y. Okhrin (Eds.). (2017). Springer-Verlag Berlin Heidelberg.   [[pdf](https://github.com/YafeiXu/working_paper/blob/master/BCS-paper-O2-YFX.pdf)][[slides](https://www.researchgate.net/profile/Yafei_Xu3/publication/315656363_Numerical_Techniques/links/58d8b8c1aca2727e5e06e6e2/Numerical-Techniques.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=wdRpkcop1S6fh1LNWVe41IqAcLDSKrYieUasJnTnLpzrZ_WEP5M4j5SFZDaojwp2Wc4jZN-d4h86b8WB66B4DEkIsFgKX3OTj3jb044Tx_s.AJD5KuWK6Cu1AGgdW8Dc2W0r3LjFRH7xyECZe9oaA932wPHe08OXf_7rfVXrCiWhtTE7jJfx96hs4VoPPKn6QQ.jgwKtEo1SrdpIeA6gVnnsrZq0SWvSvsmE1AZl9naOyD5F3LTcgzV1aLvismwkuttuoH6GaFDJTjthUPadRz1eg.8wDZQABJRdRjuus3BOrN5kwT86fAFxiWu_SHpN_NISQO28GKiy87qao7YdIyt_u8LeXGCPc_bnxxTTp-3yGvnA)][[code](https://github.com/YafeiXu/bscQuantlet)][[book](http://www.springer.com/gp/book/9783319553351)]  
 [DOI: 10.1007/978-3-319-55336-8_2](https://link.springer.com/chapter/10.1007/978-3-319-55336-8_2)
 
-[6] Ya Fei Xu. High Dimensional Financial Engineering: Dependence Modeling and Sequential Surveillance.
-**Dissertation**, Humboldt-Universität zu Berlin.    [[pdf](https://github.com/YafeiXu/working_paper/raw/master/dissertation_xu_yafei.pdf)]   
+[6] Ya Fei Xu. High Dimensional Financial Engineering: Dependence Modeling and Sequential Surveillance.       
+**Dissertation**, Humboldt-Universität zu Berlin. [[pdf](https://github.com/YafeiXu/working_paper/raw/master/dissertation_xu_yafei.pdf)]   
 [DOI: 10.18452/18790](https://doi.org/10.18452/18790)
 
   

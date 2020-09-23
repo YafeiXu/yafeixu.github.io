@@ -22,7 +22,7 @@ Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Se
 **Submitted**. [[pdf](https://arxiv.org/abs/2009.08949)]
 
 
-[1] Ostap Okhrin and Ya Fei Xu\*. 2020. A Nonparametric Multivariate Statistical Process Control Chart for High-Dimensional Financial Surveillance.  
+[1] Ya Fei Xu\*, Ostap Okhrin. 2020. A Nonparametric Multivariate Statistical Process Control Chart for High-Dimensional Financial Surveillance.  
 **Proceedings of the 2019 Meeting of the International Society for Data Science and Analytics**. [[pdf](https://github.com/YafeiXu/working_paper/raw/master/CPM102.pdf)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]   
 [DOI: 10.35566/isdsa2019c2](https://doi.org/10.35566/isdsa2019c2)
 

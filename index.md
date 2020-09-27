@@ -18,13 +18,8 @@ Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Se
 2016 Research Stay, Libera Università di Bolzano, Italy (**DFG DAAD Visiting Scholarship**)   
 
 ## Papers (articles, chapters and softwares)
-[0] Ya Fei Xu\*, Tian Xie, Yu Zhang. 2020. Boosting Retailer Revenue by Generated Optimized Combined Multiple Digital Marketing Campaigns.      
+[1] Ya Fei Xu\*, Tian Xie, Yu Zhang. 2020. Boosting Retailer Revenue by Generated Optimized Combined Multiple Digital Marketing Campaigns.      
 **Submitted**. [[pdf](https://arxiv.org/abs/2009.08949)]
-
-
-[1] Ya Fei Xu\*, Ostap Okhrin. 2020. A Nonparametric Multivariate Statistical Process Control Chart for High-Dimensional Financial Surveillance.  
-**Proceedings of the 2019 Meeting of the International Society for Data Science and Analytics**. [[pdf](https://github.com/YafeiXu/working_paper/raw/master/CPM102.pdf)][[slides](https://www.researchgate.net/publication/316789269_A_Nonparametric_Control_Chart_for_Financial_Surveillance)]   
-[DOI: 10.35566/isdsa2019c2](https://doi.org/10.35566/isdsa2019c2)
 
 
 [2] Ya Fei Xu. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test.   

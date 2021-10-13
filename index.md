@@ -65,7 +65,7 @@ MMSTAT [[code](https://github.com/QuantLet/MMSTAT)][[slides](https://www.researc
 09.2015 [Bozen-Bolzano Risk School](http://pro1.unibz.it/projects/bz_risk_school/), Libera Università di Bolzano, Italy  
 09.2015 [21\. DStatG Nachwuchsworkshop](http://www.dstatg.de/de/startseite/aktuelle-news/article/21-dstatg-nachwuchsworkshop-2015-in-hamburg/), Universität der Bundeswehr Hamburg, Germany  
 05.2017 Brown Bag Seminar,  Technische Universität Dresden, Germany  
-09.2017 Seminar Statistical Process Control,  Europa-Universität Viadrina, Germany 
+09.2017 Seminar Statistical Process Control,  Europa-Universität Viadrina, Germany      
 07.2019 ISDSA2019, Nanjing University of Posts and Telecommunications, PR China
 
 ## Research Concentration  

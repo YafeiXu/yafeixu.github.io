@@ -23,7 +23,7 @@ Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Se
 
 
 [1] Ya Fei Xu\*, Ostap Okhrin. 2020. A Nonparametric Multivariate Statistical Process Control Chart Based on Change Point Model.
-**New Developments in Data Science and Data Analytics**.[[pdf](https://github.com/YafeiXu/working_paper/blob/master/CPM102.pdf)]
+**New Developments in Data Science and Data Analytics**.[[pdf](https://github.com/YafeiXu/working_paper/blob/master/CPM102.pdf)]   
 [DOI: 10.35566/isdsa2019c2](https://isdsa.org/isdsapress/books/isdsa2019/isdsa2019c2)
 
 

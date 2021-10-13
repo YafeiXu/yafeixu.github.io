@@ -22,7 +22,7 @@ Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Se
 **Submitted**. [[pdf](https://arxiv.org/abs/2009.08949)]
 
 
-[1] Ya Fei Xu\*, Ostap Okhrin. 2020. A Nonparametric Multivariate Statistical Process Control Chart Based on Change Point Model.
+[1] Ya Fei Xu\*, Ostap Okhrin. 2020. A Nonparametric Multivariate Statistical Process Control Chart Based on Change Point Model.   
 **New Developments in Data Science and Data Analytics**.[[pdf](https://github.com/YafeiXu/working_paper/blob/master/CPM102.pdf)]   
 [DOI: 10.35566/isdsa2019c2](https://isdsa.org/isdsapress/books/isdsa2019/isdsa2019c2)
 
@@ -66,6 +66,7 @@ MMSTAT [[code](https://github.com/QuantLet/MMSTAT)][[slides](https://www.researc
 09.2015 [21\. DStatG Nachwuchsworkshop](http://www.dstatg.de/de/startseite/aktuelle-news/article/21-dstatg-nachwuchsworkshop-2015-in-hamburg/), Universität der Bundeswehr Hamburg, Germany  
 05.2017 Brown Bag Seminar,  Technische Universität Dresden, Germany  
 09.2017 Seminar Statistical Process Control,  Europa-Universität Viadrina, Germany 
+07.2019 ISDSA2019, Nanjing University of Posts and Telecommunications, PR China
 
 ## Research Concentration  
 + copula and dependence modeling

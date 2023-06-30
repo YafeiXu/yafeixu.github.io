@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/YafeiXu/yafeixu.github.io/master/1small.png" align="left">
 
-CEO - Heptastar Intelligent Tech
+CEO - Heptastar Intelligent Tech   
 Email CN: <span style="color: #030af4;">yafei.xu [at] hotmail.de</span>       
 Tel Beijing: +86 18600732196  
 GoogleScholar: [[link](https://scholar.google.com/citations?user=QpRUvNIAAAAJ&hl=en)]  

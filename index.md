@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/YafeiXu/yafeixu.github.io/master/1small.png" align="left">
 
-CEO - Beijing Heptastar Intelligent Tech Ltd.   
+CEO - Beijing Heptastar Intelligent Tech Ltd. 北京七星智能科技有限责任公司 
 Email CN: <span style="color: #030af4;">xuyafei [at] hit2023.com</span>       
 Tel Beijing: +86 18600732196  
 GoogleScholar: [[link](https://scholar.google.com/citations?user=QpRUvNIAAAAJ&hl=en)]  

@@ -25,8 +25,6 @@ Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Se
 [2] Ya Fei Xu. 2017. Package "EnergyOnlineCPM"-Distribution Free Multivariate Control Chart Based on Energy Test.   
 **The Comprehensive R Archive Network**. [[CRAN](https://cran.r-project.org/web/packages/EnergyOnlineCPM)][[GoogleSite](https://sites.google.com/site/energyonlinecpm/home)][[pdf](https://cran.r-project.org/web/packages/EnergyOnlineCPM/EnergyOnlineCPM.pdf)]    
 
-[![Rdoc](http://www.rdocumentation.org/badges/version/EnergyOnlineCPM)](http://www.rdocumentation.org/packages/EnergyOnlineCPM)   
-
 
 ```R
 install.packages("EnergyOnlineCPM")
@@ -92,4 +90,5 @@ Wein, Weib und Gesang, Johann Strauß II, Vienna Philharmonic 2000 by Riccardo M
 
 
 [![](//clustrmaps.com/map_v2.png?cl=0e1633&w=a&t=tt&d=ZEyQFXd6AhKiGuXzWw5CacldY3nE2Ujiv4HO4zmwEmQ&co=0b4975&ct=cdd4d9)](https://clustrmaps.com/site/19ncd)
+
 

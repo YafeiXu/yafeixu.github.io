@@ -8,7 +8,7 @@ ORCID: [[link](https://orcid.org/0000-0002-3228-8446)]
 
 ***
 ## Education  
-20180201 Dr. rer. pol. in Statistics, Humboldt-Universität zu Berlin, Germany (**Chinese Government Scholarship**)       
+20180201 Ph.D. in Statistics, Humboldt-Universität zu Berlin, Germany (**Chinese Government Scholarship**)       
 Dissertation: High Dimensional Financial Engineering: Dependence Modeling and Sequential Surveillance [[abstract](https://edoc.hu-berlin.de/handle/18452/19510)][[pdf](https://github.com/YafeiXu/working_paper/raw/master/dissertation_xu_yafei.pdf)]                           
 2014 MSc Statistics, Humboldt-Universität zu Berlin, Germany             
 2011 MSc Management Science, Tongji University Shanghai, China PR   
@@ -92,3 +92,4 @@ Wein, Weib und Gesang, Johann Strauß II, Vienna Philharmonic 2000 by Riccardo M
 
 
 [![](//clustrmaps.com/map_v2.png?cl=0e1633&w=a&t=tt&d=ZEyQFXd6AhKiGuXzWw5CacldY3nE2Ujiv4HO4zmwEmQ&co=0b4975&ct=cdd4d9)](https://clustrmaps.com/site/19ncd)
+
